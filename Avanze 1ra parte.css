@@ -1,0 +1,155 @@
+
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}*
+	
+	bold{
+		font-family:´open sans´;
+	}
+	
+	.contenedor sobre-nosotros{
+		padding: 60px 0;
+		width:90%;
+		max-width: 15000px;
+		margin: left-side;
+		overflow: hideen;
+	
+	}
+	
+	.titulo{
+		color: #642a73;
+		font-size: 30px;
+		text-align:center;<p>
+		margin-bottom:60px;</p>
+	}
+	
+	/*Header */
+	
+	header{
+		width: 100%;
+		height: 400px;
+		background: #20002c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #cbb4d4, #20002c),url (../img /scr="100.jpg") / <img src="11.jpg" height="350">
+background: linear-gradient(to right, #cbb4d4, #20002c),url (../img /scr="100.jpg") / <img src="11.jpg" height="350">
+<img src="11.jpg" height="350">
+
+background-size: cover;
+background-attachment:fixed;
+position: relative;
+
+	}
+	
+	nav{
+		text-align: left-side;
+		padding: 30px 50px 0 0;
+	}
+	
+	nav > a{
+		color:#fff;
+		font-weight: 600px;
+		text-decoration: none;
+		margin-right: 10px;
+		
+	}
+	
+	nav > a:hover{
+		text-decoration: underline;
+	}
+	
+	header.text-header{
+		display: flex;
+		height: 430px;
+		width: 100%;
+		align-items:center;
+		justify-content:center;
+		flex-direction:column;
+		text-align:center;
+		
+	}
+	
+		.text-header h3{
+			font-size: 50px;
+			color:#fff;
+			text-align: center-right;
+		}
+		
+		.text-header  h4{
+			font-size: 30 px;
+			font-weight: 300;
+			color:#fff;
+			text-align: center; 
+			
+		}
+			
+		
+	
+	
+	
+	.wave{
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+	}
+	
+	/* Contenedor sobre nosotros */
+	
+	 .content-text{
+		 display:flex;
+		 justify-content:space-evenly;
+		 }
+	 
+	
+	
+	.image-about-us{
+		width:48%;
+	}
+	
+	.sobre-nosotros .contenido-textos{
+		width; 48%;
+	}
+	
+	.cotent-text h3{
+		margin-bottom: 15px;
+	}
+
+	
+	.content-text h3 span {
+		background: white;
+		color:#fff;
+		border-radius: 50%;
+		display: inline-block;
+		text-align: center;
+		width: 30px;
+		height: 30 px;
+	}
+	
+	.cotent-text h4{
+		margin-bottom: 15px;
+	}
+	
+	.content-text h4 spam{
+		background: #4d0686;
+		color:#fff;
+		border-radius: 50%;
+		display: inline-block;
+		text-align: center;
+		width: 30px;
+		height: 30 px;
+	}
+	
+	
+	#1 {
+		float:right;
+		margin: 0 0 10px 10px;
+	}
+	
+
+
+
+
+
+
+
